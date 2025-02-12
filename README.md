@@ -35,7 +35,7 @@ Este es un ejercicio práctico de una calculadora interactiva desarrollada con *
    ```
 5. Abre tu navegador y accede a `http://localhost:3000` para ver la aplicación en funcionamiento.
 
-## 📂 Demostración 👀
+## 👀 Demostración
 
 ![image](https://github.com/user-attachments/assets/88de4ec1-0845-45c6-bb52-93f606eeab02)
 
