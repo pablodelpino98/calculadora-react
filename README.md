@@ -19,11 +19,11 @@ Este es un ejercicio práctico de una calculadora interactiva desarrollada con *
 
 1. Clona este repositorio en tu máquina local:
    ```sh
-   git clone https://github.com/tu-usuario/calculadora-react.git
+   git clone https://github.com/pablodelpino98/react-practica3.git
    ```
 2. Accede al directorio del proyecto:
    ```sh
-   cd calculadora-react
+   cd calculadora
    ```
 3. Instala las dependencias necesarias:
    ```sh
