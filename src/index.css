@@ -1,0 +1,8 @@
+body {
+    background-color: #c7e7ff;
+    padding: 40px;
+    background-image: url("media/homer.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 80% 100%;
+}
